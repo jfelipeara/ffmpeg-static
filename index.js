@@ -1,3 +1,4 @@
+require ('hazardous')
 var os = require('os')
 var path = require('path')
 
